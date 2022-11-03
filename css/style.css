@@ -1,0 +1,31 @@
+
+.container{
+    background-color: black;
+    width: 900px;
+}
+
+.nav{
+    background-color: #481088;
+    padding: 1rem;
+}
+
+.nav-item{
+    color: #fff;
+    padding: 0.8rem;
+    font-style: inherit;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+main{
+    color: #fff;
+}
+
+footer p{
+    color: white;
+    text-align: center;
+}
+.contato{
+    font-style: italic;
+    font-weight: bold;
+}
